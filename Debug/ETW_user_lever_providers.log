@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  etw_control.cpp
+  Generating Code...
+Main.obj : error LNK2019: unresolved external symbol _TdhEnumerateProviders@8 referenced in function _main
+E:\Programming\ETW_project\User level providers\ETW_user_lever_providers\Debug\ETW_user_lever_providers.exe : fatal error LNK1120: 1 unresolved externals
